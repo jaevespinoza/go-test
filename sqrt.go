@@ -47,4 +47,5 @@ func main() {
 	lib.SlicePlayground()
 	lib.MapsPlayground()
 	lib.RangePlayground()
+	fmt.Println(lib.Multifunction(4, 5))
 }
