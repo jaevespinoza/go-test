@@ -51,5 +51,6 @@ func main() {
 	// lib.VariadicPlayground()
 	// fmt.Println(lib.RecursionPlayground())
 	// lib.PointerPlayground()
-	lib.StringPlayground()
+	// lib.StringPlayground()
+	lib.StructPlayground("name")
 }
