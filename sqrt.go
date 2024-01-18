@@ -42,10 +42,14 @@ func main() {
 		fmt.Println("No prize")
 	}
 
-	switchGo(2)
-	lib.ArrayPlayground()
-	lib.SlicePlayground()
-	lib.MapsPlayground()
-	lib.RangePlayground()
-	fmt.Println(lib.Multifunction(4, 5))
+	// switchGo(2)
+	// lib.ArrayPlayground()
+	// lib.SlicePlayground()
+	// lib.MapsPlayground()
+	// lib.RangePlayground()
+	// fmt.Println(lib.Multifunction(4, 5))
+	// lib.VariadicPlayground()
+	// fmt.Println(lib.RecursionPlayground())
+	// lib.PointerPlayground()
+	lib.StringPlayground()
 }
